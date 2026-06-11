@@ -359,7 +359,7 @@ Regime-aware machine learning models therefore provide a practical pathway towar
 
 ### Wickliff Siriga Ogari
 
-MSc Financial Engineering Candidate
+MSc Financial Engineering Candidate, 
 WorldQuant University
 
 ---
