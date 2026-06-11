@@ -1,5 +1,25 @@
 # Quantitative Macro-Credit Risk Modeling
 
+## Project Highlights
+
+✔ Integrated Lending Club and FRED macroeconomic data
+
+✔ Implemented Point-in-Time joins to eliminate data leakage
+
+✔ Developed Hidden Markov Model regime detection framework
+
+✔ Built nested XGBoost credit risk models
+
+✔ Improved ROC-AUC from 0.683 → 0.715
+
+✔ Improved calibration quality by 73%
+
+✔ Designed macroeconomic stress-testing framework
+
+✔ Demonstrated state-dependent credit default behavior
+
+---
+
 ## Overview
 
 Traditional credit risk models often assume that the relationship between borrower characteristics and default risk remains constant over time. However, major economic disruptions such as the Global Financial Crisis (2008) and the COVID-19 pandemic have demonstrated that borrower behavior is strongly influenced by changing macroeconomic conditions.
@@ -298,6 +318,36 @@ Potential extensions include:
 * Corporate bond default prediction
 * Mortgage credit risk applications
 * Cross-country validation studies
+
+---
+
+## Business Impact
+
+Traditional credit scoring models rely primarily on borrower characteristics and often assume stable economic conditions.
+
+This research demonstrates that incorporating macroeconomic conditions and latent economic regimes can materially improve default prediction performance.
+
+### Benefits for Banks
+
+- Better Probability of Default estimation
+- Improved capital allocation
+- Enhanced Basel-compliant stress testing
+- More robust Expected Credit Loss (ECL) calculations
+- Improved portfolio risk monitoring
+
+### Benefits for Fintech Lenders
+
+- Dynamic credit scoring during economic shifts
+- Earlier detection of deteriorating borrower quality
+- Improved pricing of credit products
+- Reduced unexpected default losses
+- More resilient lending decisions during recessions
+
+### Strategic Insight
+
+The findings suggest that credit risk is fundamentally state-dependent. Borrowers with similar characteristics may exhibit significantly different default behavior depending on prevailing macroeconomic conditions.
+
+Regime-aware machine learning models therefore provide a practical pathway toward next-generation credit risk management systems.
 
 ---
 
