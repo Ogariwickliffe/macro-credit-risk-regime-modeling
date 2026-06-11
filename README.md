@@ -210,24 +210,28 @@ This allows assessment of:
 ## Repository Structure
 
 ```text
-├── data/
-│   ├── lending_club/
-│   ├── fred_macro/
+quantitative-macro-credit-risk-modeling/
+│
+├── README.md
+├── requirements.txt
+├── LICENSE
 │
 ├── notebooks/
-│   └── Quantitative_Macro_Credit_Risk_modeling.ipynb
+│   └── Quantitative_Macro_Credit_Risk_Modeling.ipynb
 │
 ├── figures/
-│   ├── regime_detection.png
-│   ├── calibration_curve.png
+│   ├── workflow.png
+│   ├── hmm_regimes.png
+│   ├── roc_curve.png
 │   ├── precision_recall_curve.png
+│   ├── calibration_curve.png
+│   └── feature_importance.png
 │
 ├── report/
 │   └── MSc_Capstone_Project_Final_GP_14074.pdf
 │
-├── requirements.txt
-│
-└── README.md
+└── data/
+    └── sample_data_description.md
 ```
 
 ---
