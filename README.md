@@ -308,11 +308,6 @@ Potential extensions include:
 MSc Financial Engineering Candidate
 WorldQuant University
 
-### Taoufiq Ouedraogo
-
-MSc Financial Engineering Candidate
-WorldQuant University
-
 ---
 
 ## Citation
@@ -322,7 +317,7 @@ If you use this work in your research, please cite:
 ```bibtex
 @misc{ogari2026macrocreditrisk,
   title={Quantitative Macro-Credit Risk Modeling},
-  author={Ogari, Wickliff Siriga and Ouedraogo, Taoufiq},
+  author={Ogari, Wickliff Siriga},
   year={2026},
   note={WorldQuant University Capstone Project}
 }
