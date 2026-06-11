@@ -1,4 +1,4 @@
-# Quantitative Macro-Credit Risk Modeling
+# Macro-Credit Risk Regime Modeling
 
 ## Project Highlights
 
